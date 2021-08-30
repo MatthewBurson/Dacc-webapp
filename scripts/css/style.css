@@ -1,3 +1,38 @@
 body{
     background-color: #33cc33;
+    background-image: url(../../images/Tree.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+ul.ulnav{
+    border-radius: 5px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: slategrey;
+} 
+li.linav{
+    float: left;
+}
+li.linav a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a.active{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.linav a:hover{
+    background-color: black;
+}
+body {
+    color: seashell;
 }
