@@ -86,4 +86,27 @@ div.transbox p {
 .dropdown:hover .dropbtn {
     background-color: rgba(0,0,0,0.2);
 }
-  
+#page_Wrapper{
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    padding: 10px;
+    height: 900px;
+    width: 1200px;
+    background: rgb(64, 65, 64, 0.85);
+    margin: auto;
+}
+p.p_content1{
+    font-size: 12pt;
+    font-family: Verdana;
+    padding: 5px;
+    border-radius: 3px;
+    border: 2px solid rgb(63, 94, 63);
+}
+span.font1{
+font-size: 14pt;
+font-weight: bold;
+font-family: verdana;
+}
+body{
+    font-size: 15pt;
+}
