@@ -116,3 +116,17 @@ body{
     margin-right: auto;
     width: 59%;
 }
+th{
+    width: 500;
+    border-radius: 3px;
+    border: solid;
+    background-color: #407575;
+    padding: 10px;
+}
+td{
+    width: 500;
+    border-radius: 3px;
+    border: solid;
+    background-color: #407575;
+    padding: 10px;
+}
